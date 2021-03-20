@@ -1,0 +1,17 @@
+.alert-container {
+    margin-top: 100px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.option-disabled {
+    font-weight: 600;
+}
+
+.hidden {
+    visibility: hidden;
+    overflow: hidden;
+    display: none;
+}
